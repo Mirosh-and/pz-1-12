@@ -9,6 +9,7 @@
 * Use scss
 * Use css variables
 * Add sourcemap for scss
+* Base template should have slider
 * Markups must be adapted according to design and Bootstrap breakpoint
 
 # Directory Structure
