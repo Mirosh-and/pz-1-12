@@ -6,6 +6,7 @@
 ### Acceptance criteria
 
 * Use css media queries
+* Use mobile-first methodology
 * Use scss
 * Use css variables
 * Add sourcemap for scss
@@ -50,6 +51,17 @@ Follow this pattern for organization of developed components.
 </body>
 </html>
 ```
+### Design for 768
+<img src="https://user-images.githubusercontent.com/10829855/134765111-3b35611a-88a4-40ed-81d5-c7cb256252dd.png" alt="Design for 768" width="400"/>
+
+### Design for 1024
+<img src="https://user-images.githubusercontent.com/10829855/134765182-f2fcbd28-faa6-4fd1-a5e0-54978d4e42c8.png" alt="Design for 1024" width="800"/>
+
+### Design for 1280
+<img src="https://user-images.githubusercontent.com/10829855/134765202-aaa8cd10-00e4-4996-a0b9-c8f4956a5d85.png" alt="Design for 1280" width="800"/>
+
+### Design for 1440
+<img src="https://user-images.githubusercontent.com/10829855/134765217-933215ac-d606-4d45-888d-45e7fa3cc2aa.png" alt="Design for 1440" width="800"/>
 
 # Useful links
 * [Bootsrap](https://getbootstrap.com/).
